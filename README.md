@@ -1,13 +1,13 @@
-#### personal blog
+### personal blog
 
 author: Mr.Er
 
 email: exhere519@gmail.com
 
-##### introduction
+#### introduction
 本个人博客使用SpringBoot+Thymeleaf+MyBatis+MySQL搭建 B/S模式
 
-##### Including
+#### Including
 博客浏览页面
 后台管理页面
 
@@ -32,7 +32,7 @@ email: exhere519@gmail.com
     10. 登录退出功能
 
 
-##### dependencies
+#### dependencies
 
 ```spring-boot-starter-parent spring-boot-starter-web spring-boot-starter-thymeleaf spring-session-core```等
 
