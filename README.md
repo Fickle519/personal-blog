@@ -1,6 +1,7 @@
 #### personal blog
 
 author: Mr.Er
+
 email: exhere519@gmail.com
 
 ##### introduction
