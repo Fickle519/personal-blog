@@ -26,7 +26,7 @@ email: exhere519@gmail.com
     7. 友情链接功能
     8. 系统配置功能
     9. 修改密码功能
-    10 退出功能
+    10. 登录退出功能
 
 
 ##### dependencies
