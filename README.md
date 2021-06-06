@@ -7,7 +7,10 @@ email: exhere519@gmail.com
 ##### introduction
 本个人博客使用SpringBoot+Thymeleaf+MyBatis+MySQL搭建 B/S模式
 
-包含：
+##### Including
+博客浏览页面
+后台管理页面
+
 1. 博客浏览页面
     1. 博客浏览功能
     2. 博客评论功能
