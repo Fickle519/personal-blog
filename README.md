@@ -4,7 +4,7 @@ author: Mr.Er
 
 email: exhere519@gmail.com
 
-#### introduction
+#### intro
 本个人博客使用SpringBoot+Thymeleaf+MyBatis+MySQL搭建 B/S模式
 
 #### including
@@ -37,3 +37,19 @@ email: exhere519@gmail.com
 ```spring-boot-starter-parent spring-boot-starter-web spring-boot-starter-thymeleaf spring-session-core```等
 
 详见项目根目录 ./pom.xml
+#### figs
+项目运行图片
+##### 博客浏览页面
+![](./figs/blog.png)
+##### 后台管理页面
+![](./figs/login.png)
+
+![](./figs/manage-DashBoard.png.png)
+
+![](./figs/manage-blog.png)
+
+![](./figs/manage-category.png)
+
+![](./figs/manage-comment.png)
+
+![](./figs/manage-publish.png)
