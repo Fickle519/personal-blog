@@ -40,7 +40,7 @@ email: exhere519@gmail.com
 #### figs
 项目运行图片
 ##### 博客浏览页面
-![](./figs/blog.png)
+![Screenshot 2021-06-14 at 11.36.27 PM.png](https://i.loli.net/2021/06/14/RXIG7CMolNxdkEs.png)
 ##### 后台管理页面
 ![](./figs/login.png)
 
